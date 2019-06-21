@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1560995069 source:c:\users\luis\desktop\pilas\pila\clases.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.cpp"
+
+1561067344 source:c:\users\luis\desktop\pilas\pila\main.cpp
+	<iostream>
+	<cstdlib>
+	"struct.h"
+
+1560995141 c:\users\luis\desktop\pilas\pila\clases.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.cpp"
+
+1560995069 c:\users\luis\desktop\pilas\pila\funciones.cpp
+	<iostream>
+	<cstdlib>
+
+1560996217 source:c:\users\luis\desktop\pilas\pila\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"struct.h"
+
+1560996217 c:\users\luis\desktop\pilas\pila\struct.h
+
